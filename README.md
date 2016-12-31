@@ -1,4 +1,5 @@
 # grade-calculator
+(view in RAW)
 this is a weighted grade calculator
 
 it will take user input in the form of strings.
