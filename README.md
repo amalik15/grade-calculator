@@ -12,7 +12,7 @@ the number after the decimal must be a DECIMAL
 after the category string is inputted grades for that category should be inputted (one grade per line).
 The grades can be inputted as a fraction, decimal or percent. 
 
-example: 50%\n
+example: 50%
          100%
          24/30
          0.85
